@@ -64,6 +64,7 @@ AI Waifu is a personalized intelligent companion system that goes beyond a simpl
 
 - [AIRI](https://github.com/moeru-ai/airi) ⭐ ~16.1k - High-star AI Companion platform approaching Neuro-sama level, supporting real-time voice and game interaction
 - [AIwaifu](https://github.com/HRNPH/AIwaifu) ⭐ ~499 - Fine-tunable, customizable open-source AI Waifu platform providing basic dialogue and character setting framework
+- [Soul of Waifu](https://github.com/jofizcd/Soul-of-Waifu) ⭐ ~413 - Windows desktop AI character/companion app: supports voice dialogue (STT/TTS), Avatar (image/Live2D/VRM 3D), character card v2 (PNG) with lorebooks/multi-persona; connects to various cloud APIs and supports downloading and running local GGUF (Llama.cpp) within the app
 - [z-waif](https://github.com/SugarcaneDefender/z-waif) ⭐ ~410 - Locally self-hosted Waifu system emphasizing VTuber character and voice interaction
 - [WaifuOS](https://github.com/uezo/WaifuOS) ⭐ ~12 - One-stop Waifu character + AI system suite, including voice synthesis and database support
 - [yuna-ai](https://github.com/yukiarimo/yuna-ai) ⭐ ~210 - Companion AI project centered around the "Yuna" character

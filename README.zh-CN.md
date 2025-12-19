@@ -62,6 +62,7 @@ AI Waifu 是个体化的智能伴侣系统，不仅仅是一个"聊天机器人"
 
 - [AIRI](https://github.com/moeru-ai/airi) ⭐ ~16.1k - 高星级、接近 Neuro-sama 的 AI Companion 平台，支持实时语音与游戏互动
 - [AIwaifu](https://github.com/HRNPH/AIwaifu) ⭐ ~499 - 可微调、可定制的开源 AI Waifu 平台，提供基础对话与角色设定框架
+- [Soul of Waifu](https://github.com/jofizcd/Soul-of-Waifu) ⭐ ~413 - Windows 桌面 AI 角色/陪伴应用：支持语音对话（STT/TTS）、Avatar（图片/Live2D/VRM 3D）、角色卡 v2（PNG）与 lorebooks / 多 persona；可接入多种云端 API，也支持在应用内下载并运行本地 GGUF（Llama.cpp）
 - [z-waif](https://github.com/SugarcaneDefender/z-waif) ⭐ ~410 - 强调本地自托管的 Waifu 系统，集成 VTuber 角色与语音互动
 - [WaifuOS](https://github.com/uezo/WaifuOS) ⭐ ~12 - 提供一站式的 Waifu 角色 + AI 系统套件，包含语音合成与数据库支持
 - [yuna-ai](https://github.com/yukiarimo/yuna-ai) ⭐ ~210 - 以 "Yuna" 角色为主线的陪伴式 AI 项目
