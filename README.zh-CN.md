@@ -69,9 +69,11 @@ AI Waifu 是个体化的智能伴侣系统，不仅仅是一个"聊天机器人"
 - [ai-waifu](https://github.com/JarikDem-Bot/ai-waifu) - 结合 VTuber 和语音助手功能的 AI Waifu 语音聊天项目
 - [CliWaifuTamagotchi](https://github.com/RodzinaSzy/CliWaifuTamagotchi) - CLI 终端风格的 Waifu 互动项目（小品级/爱好者项目）
 - [SillyTavern](https://github.com/SillyTavern/SillyTavern) ⭐ ~21.1k - 强大的对话前端，可加载角色、模型和插件，提供人物故事式的对话体验
+- [Project N.E.K.O.（猫娘计划）](https://github.com/Project-N-E-K-O/N.E.K.O) - 以开源驱动、公益导向的 UGC 平台，目标是构建与现实世界紧密相连的 AI 原生元宇宙，让数字生命能够理解、连接并与人共同成长
 
 ## 社区和资源
 
+- [Awesome AI VTubers](https://github.com/proj-airi/awesome-ai-vtubers) - AI VTuber 相关项目与资源的精选清单，包含模型、工具链、框架与社区资源等
 - [awesome-waifutech](https://github.com/corollari/awesome-waifutech) - AI Waifu 技术相关的精选列表(过时)
 
 ## 贡献

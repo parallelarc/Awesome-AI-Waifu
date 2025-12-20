@@ -71,9 +71,11 @@ AI Waifu is a personalized intelligent companion system that goes beyond a simpl
 - [ai-waifu](https://github.com/JarikDem-Bot/ai-waifu) - AI Waifu voice chat project combining VTuber and voice assistant features
 - [CliWaifuTamagotchi](https://github.com/RodzinaSzy/CliWaifuTamagotchi) - CLI terminal-style Waifu interaction project (hobby/enthusiast project)
 - [SillyTavern](https://github.com/SillyTavern/SillyTavern) ⭐ ~21.1k - Powerful dialogue frontend that can load characters, models, and plugins, providing a story-driven conversation experience
+- [Project N.E.K.O.](https://github.com/Project-N-E-K-O/N.E.K.O) - Open-source driven, public welfare-oriented UGC platform, aiming to build an AI-native metaverse closely connected to the real world, enabling digital life to understand, connect, and grow together with humans
 
 ## Community and Resources
 
+- [Awesome AI VTubers](https://github.com/proj-airi/awesome-ai-vtubers) - Curated list of AI VTuber related projects and resources, including models, toolchains, frameworks, and community resources
 - [awesome-waifutech](https://github.com/corollari/awesome-waifutech) - Curated list of AI Waifu technology-related resources (outdated)
 
 ## Contributing
