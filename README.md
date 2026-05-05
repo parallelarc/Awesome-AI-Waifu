@@ -70,6 +70,7 @@ AI Waifu is a personalized intelligent companion system that goes beyond a simpl
 - [yuna-ai](https://github.com/yukiarimo/yuna-ai) ⭐ ~210 - Companion AI project centered around the "Yuna" character
 - [ai-waifu](https://github.com/JarikDem-Bot/ai-waifu) - AI Waifu voice chat project combining VTuber and voice assistant features
 - [CliWaifuTamagotchi](https://github.com/RodzinaSzy/CliWaifuTamagotchi) - CLI terminal-style Waifu interaction project (hobby/enthusiast project)
+- [Kissable](https://kissable.app) — AI companion platform with persistent knowledge graph memory, image memory (CLIP vision), couple photo generation, video generation, emotional voice, community scenario catalog with creator tools, and unlimited messages. iOS + Web
 - [SillyTavern](https://github.com/SillyTavern/SillyTavern) ⭐ ~21.1k - Powerful dialogue frontend that can load characters, models, and plugins, providing a story-driven conversation experience
 - [Project N.E.K.O.](https://github.com/Project-N-E-K-O/N.E.K.O) - Open-source driven, public welfare-oriented UGC platform, aiming to build an AI-native metaverse closely connected to the real world, enabling digital life to understand, connect, and grow together with humans
 
