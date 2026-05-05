@@ -1,12 +1,26 @@
 # Awesome AI Waifu
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-> 📅 **最后更新时间**: 2025-12-20  
-> ⚠️ **时效性说明**: 本文档中的项目 Star 数、技术栈和功能描述基于 2025 年 12 月的数据，AI 领域发展迅速，建议访问项目仓库获取最新信息。
+<p align="center">
+  <a href="https://awesome.re"><img src="https://img.shields.io/badge/Awesome-list-blue?style=for-the-badge" alt="Awesome"></a>
+  <a href="http://creativecommons.org/publicdomain/zero/1.0/"><img src="https://img.shields.io/badge/License-CC0%201.0-lightgrey?style=for-the-badge" alt="License: CC0-1.0"></a>
+  <a href="README.md"><img src="https://img.shields.io/badge/README-English-blue?style=for-the-badge" alt="English"></a>
+  <a href="CONTRIBUTING.zh-CN.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge" alt="PRs Welcome"></a>
+</p>
 
 一个精心策划的 AI Waifu 相关资源列表，包括工具、框架、模型、应用和社区资源。
+
+> 📅 **最后更新时间**: 2026-05-05 · ⚠️ Star 数截至 2026 年 5 月。AI 领域发展迅速，建议访问项目仓库获取最新信息。
+
+## 目录
+
+- [关于 AI Waifu](#关于-ai-waifu)
+- [框架和工具](#框架和工具)
+- [应用和平台](#应用和平台)
+- [社区和资源](#社区和资源)
+- [贡献](#贡献)
+- [许可证](#许可证)
+
+---
 
 ## 关于 AI Waifu
 
@@ -45,36 +59,46 @@ AI Waifu 是个体化的智能伴侣系统，不仅仅是一个"聊天机器人"
 - **本地存储**：用户个性化数据本地加密保存
 - **开源与自托管**：由个人与社区推动的生态系统，保障隐私和自由
 
+---
+
 ## 框架和工具
 
 ### AI Waifu 专用框架
 
-- [AIAvatarKit](https://github.com/uezo/aiavatarkit) ⭐ ~457 - 通用型语音对话 + Avatar 框架，支持 STT/TTS 与多模态输入输出
+- [AIAvatarKit](https://github.com/uezo/aiavatarkit) ⭐ ~593 - 通用型语音对话 + Avatar 框架，支持 STT/TTS 与多模态输入输出
 - [ChatdollKit](https://github.com/uezo/ChatdollKit) ⭐ ~1.1k - 将 3D 模型转换为可聊天的智能体 SDK，支持语音和面部动作联动
 
 ### 通用 AI 基础设施
 
-- [LangChain](https://github.com/langchain-ai/langchain) ⭐ ~122k - 用于构建由大型语言模型（LLM）驱动的应用程序的开源工程框架，提供组件化和标准化接口、Agent 与工作流支持、数据感知与外部集成能力，可作为构建 AI Waifu 的技术基础，管理对话逻辑、长期记忆（RAG + Vector DB）和复杂行为代理
-- [letta](https://github.com/letta-ai/letta) ⭐ ~20k - 先进的状态记忆 AI Agent 平台，可用于构建长期学习与记忆层
-- [chatterbox](https://github.com/resemble-ai/chatterbox) ⭐ ~16.4k - 开源的高质量 TTS 引擎，为角色提供自然的语音生成功能
+- [LangChain](https://github.com/langchain-ai/langchain) ⭐ ~136k - 用于构建由大型语言模型（LLM）驱动的应用程序的开源工程框架，提供组件化和标准化接口、Agent 与工作流支持、数据感知与外部集成能力，可作为构建 AI Waifu 的技术基础，管理对话逻辑、长期记忆（RAG + Vector DB）和复杂行为代理
+- [letta](https://github.com/letta-ai/letta) ⭐ ~22k - 先进的状态记忆 AI Agent 平台，可用于构建长期学习与记忆层
+- [chatterbox](https://github.com/resemble-ai/chatterbox) ⭐ ~25k - 开源的高质量 TTS 引擎，为角色提供自然的语音生成功能
+- [OpenClaw](https://github.com/openclaw/openclaw) ⭐ ~369k - 本地优先的个人 AI 助手框架，支持 50+ 消息平台（WhatsApp、Telegram、Discord 等），具备语音交互、实时画布和技能系统，可作为 AI Waifu 的对话和 Agent 基础架构
+- [Hermes Agent](https://github.com/nousresearch/hermes-agent) ⭐ ~134k - Nous Research 出品的自学习 AI Agent，内置学习闭环，支持跨平台消息（Telegram、Discord、Slack 等），提供多种人格（含"kawaii"模式）和自主技能创建
+
+---
 
 ## 应用和平台
 
-- [AIRI](https://github.com/moeru-ai/airi) ⭐ ~16.1k - 高星级、接近 Neuro-sama 的 AI Companion 平台，支持实时语音与游戏互动
-- [AIwaifu](https://github.com/HRNPH/AIwaifu) ⭐ ~499 - 可微调、可定制的开源 AI Waifu 平台，提供基础对话与角色设定框架
-- [Soul of Waifu](https://github.com/jofizcd/Soul-of-Waifu) ⭐ ~413 - Windows 桌面 AI 角色/陪伴应用：支持语音对话（STT/TTS）、Avatar（图片/Live2D/VRM 3D）、角色卡 v2（PNG）与 lorebooks / 多 persona；可接入多种云端 API，也支持在应用内下载并运行本地 GGUF（Llama.cpp）
-- [z-waif](https://github.com/SugarcaneDefender/z-waif) ⭐ ~410 - 强调本地自托管的 Waifu 系统，集成 VTuber 角色与语音互动
-- [WaifuOS](https://github.com/uezo/WaifuOS) ⭐ ~12 - 提供一站式的 Waifu 角色 + AI 系统套件，包含语音合成与数据库支持
-- [yuna-ai](https://github.com/yukiarimo/yuna-ai) ⭐ ~210 - 以 "Yuna" 角色为主线的陪伴式 AI 项目
-- [ai-waifu](https://github.com/JarikDem-Bot/ai-waifu) - 结合 VTuber 和语音助手功能的 AI Waifu 语音聊天项目
+- [AIRI](https://github.com/moeru-ai/airi) ⭐ ~39k - 高星级、接近 Neuro-sama 的 AI Companion 平台，支持实时语音与游戏互动
+- [AIwaifu](https://github.com/HRNPH/AIwaifu) ⭐ ~507 - 可微调、可定制的开源 AI Waifu 平台，提供基础对话与角色设定框架
+- [Soul of Waifu](https://github.com/jofizcd/Soul-of-Waifu) ⭐ ~668 - Windows 桌面 AI 角色/陪伴应用：支持语音对话（STT/TTS）、Avatar（图片/Live2D/VRM 3D）、角色卡 v2（PNG）与 lorebooks / 多 persona；可接入多种云端 API，也支持在应用内下载并运行本地 GGUF（Llama.cpp）
+- [z-waif](https://github.com/SugarcaneDefender/z-waif) ⭐ ~518 - 强调本地自托管的 Waifu 系统，集成 VTuber 角色与语音互动
+- [WaifuOS](https://github.com/uezo/WaifuOS) ⭐ ~24 - 提供一站式的 Waifu 角色 + AI 系统套件，包含语音合成与数据库支持
+- [yuna-ai](https://github.com/yukiarimo/yuna-ai) ⭐ ~210 - 以 "Yuna" 角色为主线的陪伴式 AI 项目（已归档）
+- [ai-waifu](https://github.com/JarikDem-Bot/ai-waifu) ⭐ ~134 - 结合 VTuber 和语音助手功能的 AI Waifu 语音聊天项目
 - [CliWaifuTamagotchi](https://github.com/RodzinaSzy/CliWaifuTamagotchi) - CLI 终端风格的 Waifu 互动项目（小品级/爱好者项目）
-- [SillyTavern](https://github.com/SillyTavern/SillyTavern) ⭐ ~21.1k - 强大的对话前端，可加载角色、模型和插件，提供人物故事式的对话体验
-- [Project N.E.K.O.（猫娘计划）](https://github.com/Project-N-E-K-O/N.E.K.O) - 以开源驱动、公益导向的 UGC 平台，目标是构建与现实世界紧密相连的 AI 原生元宇宙，让数字生命能够理解、连接并与人共同成长
+- [SillyTavern](https://github.com/SillyTavern/SillyTavern) ⭐ ~27k - 强大的对话前端，可加载角色、模型和插件，提供人物故事式的对话体验
+- [Project N.E.K.O.（猫娘计划）](https://github.com/Project-N-E-K-O/N.E.K.O) ⭐ ~1k - 以开源驱动、公益导向的 UGC 平台，目标是构建与现实世界紧密相连的 AI 原生元宇宙，让数字生命能够理解、连接并与人共同成长
+
+---
 
 ## 社区和资源
 
 - [Awesome AI VTubers](https://github.com/proj-airi/awesome-ai-vtubers) - AI VTuber 相关项目与资源的精选清单，包含模型、工具链、框架与社区资源等
-- [awesome-waifutech](https://github.com/corollari/awesome-waifutech) - AI Waifu 技术相关的精选列表(过时)
+- [awesome-waifutech](https://github.com/corollari/awesome-waifutech) - AI Waifu 技术相关的精选列表（过时）
+
+---
 
 ## 贡献
 
@@ -83,5 +107,3 @@ AI Waifu 是个体化的智能伴侣系统，不仅仅是一个"聊天机器人"
 ## 许可证
 
 本项目采用 [CC0-1.0](LICENSE) 许可证。
-
-
