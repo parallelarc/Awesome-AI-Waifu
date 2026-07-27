@@ -67,6 +67,7 @@ AI Waifu 是个体化的智能伴侣系统，不仅仅是一个"聊天机器人"
 
 - [AIAvatarKit](https://github.com/uezo/aiavatarkit) ⭐ ~593 - 通用型语音对话 + Avatar 框架，支持 STT/TTS 与多模态输入输出
 - [ChatdollKit](https://github.com/uezo/ChatdollKit) ⭐ ~1.1k - 将 3D 模型转换为可聊天的智能体 SDK，支持语音和面部动作联动
+- [YuriOS](https://github.com/yuri-os/YuriOS) ⭐ ~3 - 常驻运行、本地优先的伴侣运行时，内置持续运行的认知循环，角色拥有自己的目标并会主动开口而非仅被动回复；支持 VRM/Live2D 形象与语音交互，记忆以纯文本文件形式保存在用户自己的磁盘上
 
 ### 通用 AI 基础设施
 

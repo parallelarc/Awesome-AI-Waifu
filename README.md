@@ -67,6 +67,7 @@ AI Waifu is a personalized intelligent companion system that goes beyond a simpl
 
 - [AIAvatarKit](https://github.com/uezo/aiavatarkit) ⭐ ~593 - Universal voice dialogue + Avatar framework, supporting STT/TTS and multimodal input/output
 - [ChatdollKit](https://github.com/uezo/ChatdollKit) ⭐ ~1.1k - SDK to convert 3D models into conversational agents, supporting voice and facial motion coordination
+- [YuriOS](https://github.com/yuri-os/YuriOS) ⭐ ~3 - Always-on, local-first companion runtime with a continuously running cognitive loop, so the character has its own goals and speaks first rather than only replying; VRM/Live2D body, voice loop, memory stored as plain files on the user's own disk
 
 ### General AI Infrastructure
 
