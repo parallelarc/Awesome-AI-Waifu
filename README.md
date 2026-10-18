@@ -90,6 +90,7 @@ AI Waifu is a personalized intelligent companion system that goes beyond a simpl
 - [CliWaifuTamagotchi](https://github.com/RodzinaSzy/CliWaifuTamagotchi) - CLI terminal-style Waifu interaction project (hobby/enthusiast project)
 - [SillyTavern](https://github.com/SillyTavern/SillyTavern) ⭐ ~27k - Powerful dialogue frontend that can load characters, models, and plugins, providing a story-driven conversation experience
 - [Project N.E.K.O.](https://github.com/Project-N-E-K-O/N.E.K.O) ⭐ ~1k - Open-source driven, public welfare-oriented UGC platform, aiming to build an AI-native metaverse closely connected to the real world, enabling digital life to understand, connect, and grow together with humans
+- [T-Social](https://t.me/TSocialAppBot) - Telegram Mini App with AI chat characters next to a short-clip feed and trending creators (18+)
 
 ---
 
