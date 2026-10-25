@@ -97,6 +97,7 @@ AI Waifu is a personalized intelligent companion system that goes beyond a simpl
 
 - [Awesome AI VTubers](https://github.com/proj-airi/awesome-ai-vtubers) - Curated list of AI VTuber related projects and resources, including models, toolchains, frameworks, and community resources
 - [awesome-waifutech](https://github.com/corollari/awesome-waifutech) - Curated list of AI Waifu technology-related resources (outdated)
+- [Model Muses](https://github.com/saya-ch/model-muses) - Persona illustrations of 22 AI models & platforms, with technical profiles and per-image copyright provenance
 
 ---
 
